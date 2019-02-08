@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jieke_one</string>
+    <string name="lizhen_word">你好，李震!</string>
+    <string name="start_new_view">启动另外一个界面</string>
+</resources>
