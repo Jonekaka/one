@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity_test_activity extends AppCompatActivity {
     private TextView tv;
-//    hah,wogaile
+//    this is new content
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
